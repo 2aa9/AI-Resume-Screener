@@ -1,0 +1,49 @@
+JANE DOE
+Seattle, WA 98101 | (206) 555-0198 | jane.doe@email.com | linkedin.com/in/janedoe | github.com/jane-doe
+
+PROFESSIONAL SUMMARY
+Detail-oriented and motivated Software Engineer with 3+ years of experience in full-stack development. Proven ability to build efficient, scalable, and user-friendly web applications using modern JavaScript frameworks. Seeking to leverage technical skills and collaborative approach to contribute to innovative projects at a forward-thinking tech company.
+
+TECHNICAL SKILLS
+- Programming Languages: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL
+- Frameworks & Libraries: React, Node.js, Express.js, Next.js, Redux, Jest, Bootstrap
+- Databases & Tools: MongoDB, PostgreSQL, Git, Docker, AWS (S3, EC2), RESTful APIs, Webpack
+- Methodologies: Agile/Scrum, Test-Driven Development (TDD), CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer II | CloudTech Innovations, Seattle, WA | June 2021 – Present
+- Developed and maintained features for a large-scale SaaS product using React and Node.js, serving over 50,000 active users.
+- Optimized database queries and API response times, reducing average page load time by 35%.
+- Collaborated within an Agile team of 6 to deliver new product features, participating in daily stand-ups, sprint planning, and code reviews.
+- Wrote unit and integration tests with Jest, increasing test coverage for critical services from 65% to 90%.
+- Mentored 2 junior developers on best practices for code quality and debugging.
+
+Junior Developer | DataSolve Inc., Portland, OR | July 2019 – May 2021
+- Built responsive and accessible user interface components for client websites using React and CSS3.
+- Assisted in the migration of a legacy PHP backend to a modern Node.js and Express microservices architecture.
+- Debugged and resolved front-end and back-end issues, improving application stability and user experience.
+- Deployed applications to AWS, utilizing S3 for asset storage and EC2 for instance hosting.
+
+PROJECTS
+
+TaskFlow Application | Personal Project | GitHub: github.com/jane-doe/taskflow
+- A full-stack task management application built with Next.js, TypeScript, and MongoDB.
+- Implemented user authentication with NextAuth.js and state management with React Context API.
+- Containerized the application with Docker for easy deployment and scalability.
+
+Weather Dashboard | Bootcamp Project | Live Demo: jane-doe-weatherapp.vercel.app
+- A responsive web app that fetches and displays weather data from a public API based on user input.
+- Utilized async/await for API calls and dynamically updated the DOM based on JSON responses.
+
+EDUCATION
+
+B.S. in Computer Science
+University of Washington, Seattle, WA
+Graduated: May 2019
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Web Development
+- Honors: Magna Cum Laude, Dean's List (4 Semesters)
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner | Amazon Web Services | 2022
+- Meta Front-End Developer Professional Certificate | Coursera | 2023
