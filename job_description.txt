@@ -1,0 +1,50 @@
+Job Title: Senior Software Engineer - Full Stack
+Company: InnovateTech Solutions
+Location: San Francisco, CA (Hybrid)
+Job Type: Full-time
+Experience Level: Senior Level (5+ years)
+
+About InnovateTech Solutions:
+At InnovateTech, we're building the future of cloud-based data analytics. Our platform helps businesses of all sizes turn raw data into actionable insights. Join our passionate engineering team to solve complex problems and create products that make a real difference.
+
+Job Description:
+We are seeking a highly motivated and experienced Senior Full Stack Engineer to join our dynamic product development team. In this role, you will be instrumental in designing, building, and scaling our core web application. You will work across the entire stack, from crafting responsive UIs to designing robust backend services.
+
+Key Responsibilities:
+- Design, develop, test, and deploy scalable and maintainable full-stack features using JavaScript/TypeScript, React, and Node.js.
+- Collaborate with product managers, designers, and other engineers to understand requirements and translate them into technical solutions.
+- Lead technical design and code reviews to ensure high standards of quality, performance, and security.
+- Identify and address performance bottlenecks and contribute to continuous improvement of our codebase, architecture, and development processes.
+- Mentor junior engineers and help cultivate a culture of technical excellence and collaboration.
+- Participate in all phases of the agile software development lifecycle.
+
+Required Qualifications:
+- 5+ years of professional software development experience.
+- Strong proficiency in modern JavaScript (ES6+) and/or TypeScript.
+- Extensive experience with React and a state management library (Redux, Context API).
+- Solid experience building RESTful and/or GraphQL APIs with Node.js and Express.
+- Proven experience with relational databases (e.g., PostgreSQL, MySQL) and ORMs.
+- Experience with cloud platforms (AWS, GCP, or Azure) and containerization (Docker).
+- Strong understanding of software design patterns, data structures, and algorithms.
+- Excellent problem-solving skills and a collaborative mindset.
+- Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+
+Preferred Qualifications:
+- Experience with Next.js or similar React frameworks.
+- Experience with CI/CD pipelines and automated testing frameworks (Jest, Cypress).
+- Familiarity with microservices architecture.
+- Experience in a fast-paced startup environment.
+
+What We Offer:
+- Competitive salary and equity package ($150,000 - $190,000 annually).
+- Comprehensive health, dental, and vision insurance.
+- 401(k) with company matching.
+- Flexible work schedule and hybrid remote/in-office model.
+- Generous paid time off and parental leave.
+- Professional development budget for conferences and courses.
+- Modern tech stack and a culture that values innovation and work-life balance.
+
+How to Apply:
+Please submit your resume, a link to your GitHub profile, and a brief note about why you're interested in this role to careers@innovatetech.com with the subject line "Senior Software Engineer Application - [Your Name]".
+
+InnovateTech Solutions is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
